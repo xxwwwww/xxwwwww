@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xxwwwww
-- 📫 How to reach me: wy471@duke.edu
+- 📫 How to reach me: yw471@duke.edu
 
 <!---
 xxwwwww/xxwwwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
